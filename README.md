@@ -1,5 +1,6 @@
 
  # Major-02- ITM-University
+ 
  ----------------------------------------ß
  # Blockchain Network Infrustructure | [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/onuratakan/POW-Blockchain-Network-Infrustructure/blob/master/LICENSE)
 ![POW-Blockchain-Network-Infrustructure](https://repository-images.githubusercontent.com/344505400/7896bd80-845a-11eb-845b-80aa34da8b21)
@@ -34,6 +35,7 @@ Now you are connected, then mine or ask other people on the network to have some
 # Result:
 Now you can earn more mines by mining one in every 3 transactions, and you can use your mines for the data part of transaction transactions. For example, send a message with the send message button. Your message will be kept on the entire network. Or you can use this system to develop a standard cryptocurrency.
 
-
-# Reminder
-Important Information and Reminder Information and programs in all repositories are created for testing purposes. Any legal responsibility belongs to the person or organization that uses it.
+# Team
+- Prashant sagar
+- Neha Kumari
+- Supbhara sharma
