@@ -1,4 +1,7 @@
-# POW-Blockchain Network Infrustructure | [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/onuratakan/POW-Blockchain-Network-Infrustructure/blob/master/LICENSE)
+
+ # Major-02- ITM-University
+ ----------------------------------------ß
+ # Blockchain Network Infrustructure | [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/onuratakan/POW-Blockchain-Network-Infrustructure/blob/master/LICENSE)
 ![POW-Blockchain-Network-Infrustructure](https://repository-images.githubusercontent.com/344505400/7896bd80-845a-11eb-845b-80aa34da8b21)
 
 # Introducing
