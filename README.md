@@ -37,5 +37,3 @@ Now you can earn more mines by mining one in every 3 transactions, and you can u
 
 # Team
 - Prashant sagar
-- Neha Kumari
-- Supbhara sharma
